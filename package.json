@@ -1,4 +1,5 @@
 {
+  "name": "ideas.nico.fyi",
   "private": true,
   "scripts": {
     "dev": "next dev",
